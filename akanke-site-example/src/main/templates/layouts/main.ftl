@@ -71,7 +71,7 @@
     </div>
 </footer>
 
-<facebook app-id="${facebookAppId}"></facebook>
+<!--<facebook app-id="${facebookAppId}"></facebook>-->
 <script src="<@spring.url "/public/js/all.js"/>"></script>
 </body>
 </html>
